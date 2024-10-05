@@ -9,11 +9,9 @@ function HeaderHome() {
     };
 
     return (
-        <div className="flex flex-row bg-[#323232] py-3 items-center justify-between px-5">
+        <div className="flex flex-row bg-[#B37CE6] py-3 items-center justify-between px-5">
             <div>
-                <a href="/home">
-                    <img src={LogoSVG16} alt="Logo" className="w-[100px] sm:w-[140px] lg:w-[270px] sm:pt-3" />
-                </a>
+
             </div>
             <div>
                 <ol className='flex flex-row space-x-5 text-white pt-[26px]'>

@@ -7,7 +7,7 @@ import github from '../assets/github-mark.svg';
 
 function Footer() {
     return (
-        <div className="flex flex-col items-center bg-[#323232] py-3">
+        <div className="flex flex-col items-center bg-[#B37CE6] py-3">
             <ol className="flex justify-center h-6 mb-0 pt-1">
                 <li className="px-2">
                     <a href="https://www.instagram.com/_sriganesh___?igsh=MXdsZThsanZtMHI3Mg%3D%3D" target="_blank" rel="noopener noreferrer">
@@ -36,7 +36,7 @@ function Footer() {
                 </li>
             </ol>
             <h2 className="text-sm sm:text-lg lg:text-2xl font-bold pl-2 mt-0 lg:mt-5 lg:mb-2">
-                Innovixity
+                CureChat
             </h2>
             <p className="text-xs sm:text-sm lg:text-xl">Copyright &copy; {new Date().getFullYear()} Innovixity, Inc.</p>
         </div>
